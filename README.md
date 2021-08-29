@@ -4,7 +4,7 @@
 
 This repository is going to be a place where I would regualrly solve algorythmic math challenges, and update it. I've started this repo out of passion for writing a more useful practice code for `golang` and test my own limits. Later on I may add more languages in the mix. 
 
-The coding challenges would require Dynamic Programming algorythms or strategies to solve. But for now I'm focusing on the following two strategies: ``  `Columns * Rows`
+The coding challenges would require Dynamic Programming algorythms or strategies to solve. But for now I'm focusing on the following two strategies: 
 
 ### Memorization
 
@@ -22,12 +22,12 @@ Tabulation is a similar process with **Memorization** except it is performed wit
 ## The n-th Fibonacci Math Challenge
 
 It can be found in the `/fibonacci-math` folder in this repo.
-refer to its folder specific `README.md` to learn more.
+Refer to its folder specific `README.md` to learn more.
 
 ## The Grid Traveler Challenge
 
 It can be found in the `/grid-traveler` folder in this repo.
-refer to its folder specific `README.md` to learn more.
+Refer to its folder specific `README.md` to learn more.
 
 
 

@@ -13,8 +13,10 @@ Togenerate the next number of the sequence, we sum the previous two.
 
 e.g. `gridTraveler(2,3) => 3`
 
-| START |       |       |
-|       |       |  END  |
+|      THE--GRID      |
+|-------|-----|-------|
+| START |     |       |
+|       |     |  END  |
 
 ## Issue resolved
 
